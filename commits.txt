@@ -1,0 +1,23 @@
+commit 95638c6d4d44d6f78fa772db50e2f74a844dc675
+Author: José Manuel <crashover92@gmail.com>
+Date:   Fri Jun 2 11:07:29 2017 -0500
+
+    cambios en header
+
+commit 6199c6c957600d2bbf9598a7d6dcc05217624a95
+Author: José Manuel <crashover92@gmail.com>
+Date:   Fri Jun 2 11:01:51 2017 -0500
+
+    cambios en el footer
+
+commit 7699e905de040add6e083ad8b9c309c8e0359d3d
+Author: José Manuel <crashover92@gmail.com>
+Date:   Fri Jun 2 10:59:31 2017 -0500
+
+    cambio de titulo
+
+commit 7785198a109f429b819eefdae80c2fd3bce1a5b7
+Author: José Manuel <crashover92@gmail.com>
+Date:   Fri Jun 2 10:47:27 2017 -0500
+
+    Version inicial del proyecto

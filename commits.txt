@@ -1,3 +1,21 @@
+commit 4f96253dead763c95e82a0d915afde35ea4382df
+Author: José Manuel <crashover92@gmail.com>
+Date:   Fri Jun 2 11:41:41 2017 -0500
+
+    se añadieron traducciones
+
+commit 9bba58a594f743fc512ba3b9e26f8911108f0fbe
+Author: José Manuel <crashover92@gmail.com>
+Date:   Fri Jun 2 11:33:15 2017 -0500
+
+    Traducciones 2
+
+commit 1f82795bd0aefb8c2b7663944f8fca6a8c4e0b14
+Author: José Manuel <crashover92@gmail.com>
+Date:   Fri Jun 2 11:29:11 2017 -0500
+
+    Se agregaron traducciones
+
 commit 95638c6d4d44d6f78fa772db50e2f74a844dc675
 Author: José Manuel <crashover92@gmail.com>
 Date:   Fri Jun 2 11:07:29 2017 -0500
